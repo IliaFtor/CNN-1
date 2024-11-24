@@ -1,0 +1,13 @@
+C:\Users\ryv26\source\repos\CNN 1\bin\Debug\CNN 1.exe.config
+C:\Users\ryv26\source\repos\CNN 1\bin\Debug\CNN 1.exe
+C:\Users\ryv26\source\repos\CNN 1\bin\Debug\CNN 1.pdb
+C:\Users\ryv26\source\repos\CNN 1\obj\Debug\CNN 1.csproj.AssemblyReference.cache
+C:\Users\ryv26\source\repos\CNN 1\obj\Debug\CNN_1.Form1.resources
+C:\Users\ryv26\source\repos\CNN 1\obj\Debug\CNN_1.Properties.Resources.resources
+C:\Users\ryv26\source\repos\CNN 1\obj\Debug\CNN 1.csproj.GenerateResource.cache
+C:\Users\ryv26\source\repos\CNN 1\obj\Debug\CNN 1.csproj.CoreCompileInputs.cache
+C:\Users\ryv26\source\repos\CNN 1\obj\Debug\CNN 1.exe
+C:\Users\ryv26\source\repos\CNN 1\obj\Debug\CNN 1.pdb
+C:\Users\ryv26\source\repos\CNN 1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ryv26\source\repos\CNN 1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ryv26\source\repos\CNN 1\obj\Debug\CNN 1.csproj.Up2Date
